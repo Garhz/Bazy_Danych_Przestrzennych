@@ -1,0 +1,9 @@
+1. Rozwiązanie znajduje się w warstwie trees.
+2. Rozwiązanie znajduje się w warstwie trees.
+3. Rozwiązanie znajduje się w pliku SQL.
+4. Rozwiązanie znajduje się w pliku SQL oraz w warstwie airports.
+5. Rozwiązanie znajduje się w warstwie poppBristolBay i pliku SQL.
+6. Rozwiązanie znajduje się w warstwie Przecięcia.
+7. Rozwiązanie znajduje się w warstwie Węzły.
+8. Rozwiązanie znajduje się w warstwie BestPlaceForHotel.
+9. Rozwiązanie znajduje się w warstwie UproszczonaGeometriaSwamp oraz w pliku SQL.
